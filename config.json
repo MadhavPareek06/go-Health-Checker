@@ -1,0 +1,9 @@
+{
+  "ping_interval_ms": 1000,
+  "concurrency": 5,
+  "request_timeout_ms": 2000,
+  "services": [
+    "https://www.google.com",
+    "https://www.example.com"
+  ]
+}
